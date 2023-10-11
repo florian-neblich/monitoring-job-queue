@@ -1,0 +1,35 @@
+{
+  "id": "80ed8c12-eb6e-48e9-9b71-79da5489a49b",
+  "name": "dynamic commerce Monitoring Job Queue",
+  "publisher": "dc AG",
+  "version": "1.0.0.0",
+  "brief": "Monitor Job Queues directly in Dynamics 365 Business Central",
+  "description": "Our extension provides the ability to monitor Job Queues to Dynamics 365 Business Central. [...]",
+  "privacyStatement": "https://www.dc.ag/en/appsource/dataprotection/",
+  "EULA": "https://www.dc.ag/en/appsource/eula/",
+  "help": "https://docs.dc.ag/",
+  "contextSensitiveHelpUrl": "https://docs.dc.ag/",
+  "url": "https://docs.dc.ag/",
+  "logo": "logo/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "21.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "10.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

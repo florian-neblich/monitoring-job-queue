@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Microsoft Test OnPrem",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "environmentName": "BC",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    ]
+}
